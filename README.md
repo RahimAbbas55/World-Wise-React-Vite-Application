@@ -10,6 +10,26 @@ World-Wise provides users who wants to keep track of all the places that they vi
 
 -> **Vite**
 
+## Concepts Used to build application:
+
+-> useState & useReducer hooks for State Management.
+
+-> useEffect hook for necessary API calls.
+
+-> useParams hook to get values from the URL.
+
+-> useContext hook for better State Management and avoiding "Prop Drilling" issue.
+
+## <- How to set up the Project? ->
+
+-> Clone the repository either in your IDE or download the ZIP.
+
+-> Once opened in your IDE, download 2 dependencies using the following commands:
+
+    => **npm install json-server**
+
+    => **npm install react-datepicker
+
 
 
 
