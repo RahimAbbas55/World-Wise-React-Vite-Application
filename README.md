@@ -1,5 +1,3 @@
-<img width="1440" alt="pricing page" src="https://github.com/user-attachments/assets/225325c7-9ec6-42f3-8b6e-e8871ca95650"># React + Vite
-
 ## Project Overview:
 
 World-Wise provides users who wants to keep track of all the places that they visit using an interactive map. The user can add new cities to their list that they had visited in their life. Moreover, they can also remove the places from the list as well. There is is pricing and products page where details of the applications are written.(Not orignal details as the application is not production build.)
