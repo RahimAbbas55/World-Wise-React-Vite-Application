@@ -1,7 +1,7 @@
 import CityItem from './CityItem'
 import styles from './CityList.module.css'
-import Spinner from '../../../starter/components/Spinner'
-import Message from '../../../starter/components/Message'
+import Spinner from '../components/Spinner'
+import Message from '../components/Message'
 import { UseCities } from '../context/CitiesContext'
 // eslint-disable-next-line react/prop-types
 function CityList() {

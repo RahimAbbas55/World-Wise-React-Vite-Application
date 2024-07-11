@@ -23,6 +23,42 @@
         "lat": "31.55513372117206",
         "lng": "74.31701660156251"
       }
+    },
+    {
+      "id": "6d90",
+      "cityName": "Teruel",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-11T20:41:26.403Z",
+      "notes": "Good place",
+      "position": {
+        "lat": "40.3345297922789",
+        "lng": "-1.0931236619046625"
+      }
+    },
+    {
+      "id": "f587",
+      "cityName": "Southwark",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-07-11T20:44:13.757Z",
+      "notes": "Good place to visit.",
+      "position": {
+        "lat": "51.49506473014368",
+        "lng": "-0.06591796875000001"
+      }
+    },
+    {
+      "id": "27b4",
+      "cityName": "Martindale",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-07-11T20:44:33.216Z",
+      "notes": "Nice Place!",
+      "position": {
+        "lat": "54.559322587438636",
+        "lng": "-2.8564453125000004"
+      }
     }
   ]
 }
