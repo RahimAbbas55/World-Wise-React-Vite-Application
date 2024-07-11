@@ -30,8 +30,21 @@ World-Wise provides users who wants to keep track of all the places that they vi
 
     => **npm install react-datepicker
 
+-> There is a JSON file which will server as our dummy API. Open your terminal and type "npm run server" to start the dummy API.
+
+-> Once dummy API is running, enter the following command to start the project: 
+
+    npm run dev
+
+-> The open the localhost link from the terminal and you are set to go.
 
 
+## Project Images:
+
+
+
+
+# React + Vite:
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
