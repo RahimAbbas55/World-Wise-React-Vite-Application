@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "6f53",
+      "cityName": "Gujranwala",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2024-07-11T14:23:48.440Z",
+      "notes": "My hometown\n",
+      "position": {
+        "lat": "32.15236189465579",
+        "lng": "74.19616699218751"
+      }
+    },
+    {
+      "id": "de29",
+      "cityName": "Lahore",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2024-07-11T14:24:00.249Z",
+      "notes": "My current city",
+      "position": {
+        "lat": "31.55513372117206",
+        "lng": "74.31701660156251"
+      }
+    }
+  ]
+}
