@@ -75,8 +75,11 @@ World-Wise provides users who wants to keep track of all the places that they vi
 
 
 
+# Note: 
 
+You are required to download all the dependencies that I have mentioned above as they are an integral part of the application and without those the application will not function. In case of any query or issues, reach out to me using my social media links in my profile description. 
 
+Happy Coding😊
 
 # React + Vite:
 
